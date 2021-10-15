@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm John 👋
 
 -🔭 I’m currently studying at Univeristy of Lampung
 <br/>
