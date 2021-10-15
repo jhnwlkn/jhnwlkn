@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 -🔭 I’m currently studying at Univeristy of Lampung
+<br/>
 -🌱 I’m currently learning to be a rich man🤑
 
-<br/>
+
 <!--
 **jhnwlkn/jhnwlkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
