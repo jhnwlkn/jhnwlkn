@@ -1,8 +1,6 @@
 ### Hi there, I'm John 👋
 
 -🔭 I’m currently studying at University of Lampung
-<br/>
--🌱 I’m currently learning to be a rich man🤑
 
 ### Connect with me:
 
